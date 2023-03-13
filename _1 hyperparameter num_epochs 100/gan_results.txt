@@ -1,0 +1,1200 @@
+Epoch [0/100], Step [200/600]:
+Discriminator_loss: 0.9760, Generator_loss: 6.2899
+Real Score Mean D(x): 0.74, Fake Score Mean D(G(z)): 0.00
+
+Epoch [0/100], Step [400/600]:
+Discriminator_loss: 0.0898, Generator_loss: 5.0001
+Real Score Mean D(x): 1.00, Fake Score Mean D(G(z)): 0.08
+
+Epoch [0/100], Step [600/600]:
+Discriminator_loss: 0.0776, Generator_loss: 5.4857
+Real Score Mean D(x): 0.98, Fake Score Mean D(G(z)): 0.04
+
+Epoch [1/100], Step [200/600]:
+Discriminator_loss: 0.2597, Generator_loss: 5.4632
+Real Score Mean D(x): 0.94, Fake Score Mean D(G(z)): 0.10
+
+Epoch [1/100], Step [400/600]:
+Discriminator_loss: 0.2160, Generator_loss: 6.2213
+Real Score Mean D(x): 0.98, Fake Score Mean D(G(z)): 0.13
+
+Epoch [1/100], Step [600/600]:
+Discriminator_loss: 0.0386, Generator_loss: 4.3445
+Real Score Mean D(x): 1.00, Fake Score Mean D(G(z)): 0.04
+
+Epoch [2/100], Step [200/600]:
+Discriminator_loss: 0.4064, Generator_loss: 6.9232
+Real Score Mean D(x): 0.89, Fake Score Mean D(G(z)): 0.03
+
+Epoch [2/100], Step [400/600]:
+Discriminator_loss: 0.3437, Generator_loss: 5.3176
+Real Score Mean D(x): 0.92, Fake Score Mean D(G(z)): 0.08
+
+Epoch [2/100], Step [600/600]:
+Discriminator_loss: 0.2939, Generator_loss: 6.3300
+Real Score Mean D(x): 0.91, Fake Score Mean D(G(z)): 0.04
+
+Epoch [3/100], Step [200/600]:
+Discriminator_loss: 3.7343, Generator_loss: 21.4020
+Real Score Mean D(x): 0.63, Fake Score Mean D(G(z)): 0.00
+
+Epoch [3/100], Step [400/600]:
+Discriminator_loss: 0.3535, Generator_loss: 5.1421
+Real Score Mean D(x): 0.90, Fake Score Mean D(G(z)): 0.03
+
+Epoch [3/100], Step [600/600]:
+Discriminator_loss: 0.2140, Generator_loss: 3.8459
+Real Score Mean D(x): 0.98, Fake Score Mean D(G(z)): 0.15
+
+Epoch [4/100], Step [200/600]:
+Discriminator_loss: 0.0603, Generator_loss: 4.5429
+Real Score Mean D(x): 0.99, Fake Score Mean D(G(z)): 0.04
+
+Epoch [4/100], Step [400/600]:
+Discriminator_loss: 0.1782, Generator_loss: 4.5336
+Real Score Mean D(x): 0.94, Fake Score Mean D(G(z)): 0.03
+
+Epoch [4/100], Step [600/600]:
+Discriminator_loss: 0.0370, Generator_loss: 10.3256
+Real Score Mean D(x): 1.00, Fake Score Mean D(G(z)): 0.03
+
+Epoch [5/100], Step [200/600]:
+Discriminator_loss: 0.0671, Generator_loss: 4.0946
+Real Score Mean D(x): 0.99, Fake Score Mean D(G(z)): 0.05
+
+Epoch [5/100], Step [400/600]:
+Discriminator_loss: 0.2629, Generator_loss: 4.8857
+Real Score Mean D(x): 0.91, Fake Score Mean D(G(z)): 0.02
+
+Epoch [5/100], Step [600/600]:
+Discriminator_loss: 0.0567, Generator_loss: 5.3152
+Real Score Mean D(x): 0.98, Fake Score Mean D(G(z)): 0.02
+
+Epoch [6/100], Step [200/600]:
+Discriminator_loss: 0.3058, Generator_loss: 5.2853
+Real Score Mean D(x): 0.92, Fake Score Mean D(G(z)): 0.04
+
+Epoch [6/100], Step [400/600]:
+Discriminator_loss: 0.1629, Generator_loss: 5.2824
+Real Score Mean D(x): 0.96, Fake Score Mean D(G(z)): 0.02
+
+Epoch [6/100], Step [600/600]:
+Discriminator_loss: 0.2220, Generator_loss: 4.2034
+Real Score Mean D(x): 0.93, Fake Score Mean D(G(z)): 0.03
+
+Epoch [7/100], Step [200/600]:
+Discriminator_loss: 0.1404, Generator_loss: 4.2301
+Real Score Mean D(x): 0.96, Fake Score Mean D(G(z)): 0.05
+
+Epoch [7/100], Step [400/600]:
+Discriminator_loss: 0.1305, Generator_loss: 3.9996
+Real Score Mean D(x): 0.99, Fake Score Mean D(G(z)): 0.10
+
+Epoch [7/100], Step [600/600]:
+Discriminator_loss: 0.0920, Generator_loss: 4.5971
+Real Score Mean D(x): 0.98, Fake Score Mean D(G(z)): 0.02
+
+Epoch [8/100], Step [200/600]:
+Discriminator_loss: 0.1278, Generator_loss: 4.5448
+Real Score Mean D(x): 0.98, Fake Score Mean D(G(z)): 0.09
+
+Epoch [8/100], Step [400/600]:
+Discriminator_loss: 0.3587, Generator_loss: 2.6723
+Real Score Mean D(x): 0.99, Fake Score Mean D(G(z)): 0.28
+
+Epoch [8/100], Step [600/600]:
+Discriminator_loss: 0.3283, Generator_loss: 3.5320
+Real Score Mean D(x): 0.89, Fake Score Mean D(G(z)): 0.09
+
+Epoch [9/100], Step [200/600]:
+Discriminator_loss: 0.5344, Generator_loss: 5.5154
+Real Score Mean D(x): 0.87, Fake Score Mean D(G(z)): 0.01
+
+Epoch [9/100], Step [400/600]:
+Discriminator_loss: 0.2239, Generator_loss: 3.3557
+Real Score Mean D(x): 0.96, Fake Score Mean D(G(z)): 0.12
+
+Epoch [9/100], Step [600/600]:
+Discriminator_loss: 0.2008, Generator_loss: 4.4703
+Real Score Mean D(x): 0.93, Fake Score Mean D(G(z)): 0.03
+
+Epoch [10/100], Step [200/600]:
+Discriminator_loss: 0.1379, Generator_loss: 3.1455
+Real Score Mean D(x): 0.95, Fake Score Mean D(G(z)): 0.05
+
+Epoch [10/100], Step [400/600]:
+Discriminator_loss: 0.2516, Generator_loss: 4.6835
+Real Score Mean D(x): 0.90, Fake Score Mean D(G(z)): 0.03
+
+Epoch [10/100], Step [600/600]:
+Discriminator_loss: 0.3595, Generator_loss: 3.4548
+Real Score Mean D(x): 0.97, Fake Score Mean D(G(z)): 0.16
+
+Epoch [11/100], Step [200/600]:
+Discriminator_loss: 0.2273, Generator_loss: 4.3908
+Real Score Mean D(x): 0.94, Fake Score Mean D(G(z)): 0.08
+
+Epoch [11/100], Step [400/600]:
+Discriminator_loss: 0.1995, Generator_loss: 3.8902
+Real Score Mean D(x): 0.93, Fake Score Mean D(G(z)): 0.05
+
+Epoch [11/100], Step [600/600]:
+Discriminator_loss: 0.2471, Generator_loss: 3.6039
+Real Score Mean D(x): 0.92, Fake Score Mean D(G(z)): 0.05
+
+Epoch [12/100], Step [200/600]:
+Discriminator_loss: 0.4659, Generator_loss: 2.3564
+Real Score Mean D(x): 0.89, Fake Score Mean D(G(z)): 0.18
+
+Epoch [12/100], Step [400/600]:
+Discriminator_loss: 0.3858, Generator_loss: 4.2492
+Real Score Mean D(x): 0.91, Fake Score Mean D(G(z)): 0.10
+
+Epoch [12/100], Step [600/600]:
+Discriminator_loss: 0.5294, Generator_loss: 3.5629
+Real Score Mean D(x): 0.85, Fake Score Mean D(G(z)): 0.12
+
+Epoch [13/100], Step [200/600]:
+Discriminator_loss: 0.4121, Generator_loss: 2.4379
+Real Score Mean D(x): 0.89, Fake Score Mean D(G(z)): 0.16
+
+Epoch [13/100], Step [400/600]:
+Discriminator_loss: 0.3969, Generator_loss: 1.9465
+Real Score Mean D(x): 0.91, Fake Score Mean D(G(z)): 0.21
+
+Epoch [13/100], Step [600/600]:
+Discriminator_loss: 0.3787, Generator_loss: 2.7468
+Real Score Mean D(x): 0.89, Fake Score Mean D(G(z)): 0.14
+
+Epoch [14/100], Step [200/600]:
+Discriminator_loss: 0.2101, Generator_loss: 3.0160
+Real Score Mean D(x): 0.93, Fake Score Mean D(G(z)): 0.07
+
+Epoch [14/100], Step [400/600]:
+Discriminator_loss: 0.2836, Generator_loss: 3.2224
+Real Score Mean D(x): 0.91, Fake Score Mean D(G(z)): 0.08
+
+Epoch [14/100], Step [600/600]:
+Discriminator_loss: 0.3264, Generator_loss: 4.0041
+Real Score Mean D(x): 0.89, Fake Score Mean D(G(z)): 0.10
+
+Epoch [15/100], Step [200/600]:
+Discriminator_loss: 0.3982, Generator_loss: 2.3191
+Real Score Mean D(x): 0.88, Fake Score Mean D(G(z)): 0.15
+
+Epoch [15/100], Step [400/600]:
+Discriminator_loss: 0.4465, Generator_loss: 2.9793
+Real Score Mean D(x): 0.86, Fake Score Mean D(G(z)): 0.14
+
+Epoch [15/100], Step [600/600]:
+Discriminator_loss: 0.2832, Generator_loss: 2.6241
+Real Score Mean D(x): 0.92, Fake Score Mean D(G(z)): 0.13
+
+Epoch [16/100], Step [200/600]:
+Discriminator_loss: 0.7791, Generator_loss: 2.1453
+Real Score Mean D(x): 0.83, Fake Score Mean D(G(z)): 0.23
+
+Epoch [16/100], Step [400/600]:
+Discriminator_loss: 0.3781, Generator_loss: 4.7736
+Real Score Mean D(x): 0.89, Fake Score Mean D(G(z)): 0.07
+
+Epoch [16/100], Step [600/600]:
+Discriminator_loss: 0.5735, Generator_loss: 3.0815
+Real Score Mean D(x): 0.85, Fake Score Mean D(G(z)): 0.17
+
+Epoch [17/100], Step [200/600]:
+Discriminator_loss: 0.4600, Generator_loss: 3.9431
+Real Score Mean D(x): 0.82, Fake Score Mean D(G(z)): 0.04
+
+Epoch [17/100], Step [400/600]:
+Discriminator_loss: 0.6043, Generator_loss: 3.3855
+Real Score Mean D(x): 0.82, Fake Score Mean D(G(z)): 0.09
+
+Epoch [17/100], Step [600/600]:
+Discriminator_loss: 0.5118, Generator_loss: 3.3788
+Real Score Mean D(x): 0.88, Fake Score Mean D(G(z)): 0.15
+
+Epoch [18/100], Step [200/600]:
+Discriminator_loss: 0.4533, Generator_loss: 2.5708
+Real Score Mean D(x): 0.82, Fake Score Mean D(G(z)): 0.09
+
+Epoch [18/100], Step [400/600]:
+Discriminator_loss: 0.5804, Generator_loss: 2.9937
+Real Score Mean D(x): 0.82, Fake Score Mean D(G(z)): 0.07
+
+Epoch [18/100], Step [600/600]:
+Discriminator_loss: 0.6625, Generator_loss: 3.2432
+Real Score Mean D(x): 0.80, Fake Score Mean D(G(z)): 0.08
+
+Epoch [19/100], Step [200/600]:
+Discriminator_loss: 0.6742, Generator_loss: 2.6747
+Real Score Mean D(x): 0.88, Fake Score Mean D(G(z)): 0.29
+
+Epoch [19/100], Step [400/600]:
+Discriminator_loss: 0.4459, Generator_loss: 2.4677
+Real Score Mean D(x): 0.83, Fake Score Mean D(G(z)): 0.15
+
+Epoch [19/100], Step [600/600]:
+Discriminator_loss: 0.5072, Generator_loss: 3.6132
+Real Score Mean D(x): 0.85, Fake Score Mean D(G(z)): 0.15
+
+Epoch [20/100], Step [200/600]:
+Discriminator_loss: 0.3217, Generator_loss: 4.9880
+Real Score Mean D(x): 0.89, Fake Score Mean D(G(z)): 0.06
+
+Epoch [20/100], Step [400/600]:
+Discriminator_loss: 0.3056, Generator_loss: 4.8541
+Real Score Mean D(x): 0.93, Fake Score Mean D(G(z)): 0.13
+
+Epoch [20/100], Step [600/600]:
+Discriminator_loss: 0.4227, Generator_loss: 3.4042
+Real Score Mean D(x): 0.90, Fake Score Mean D(G(z)): 0.17
+
+Epoch [21/100], Step [200/600]:
+Discriminator_loss: 0.5639, Generator_loss: 3.3327
+Real Score Mean D(x): 0.87, Fake Score Mean D(G(z)): 0.15
+
+Epoch [21/100], Step [400/600]:
+Discriminator_loss: 0.2263, Generator_loss: 3.9486
+Real Score Mean D(x): 0.91, Fake Score Mean D(G(z)): 0.04
+
+Epoch [21/100], Step [600/600]:
+Discriminator_loss: 0.2521, Generator_loss: 4.4113
+Real Score Mean D(x): 0.89, Fake Score Mean D(G(z)): 0.06
+
+Epoch [22/100], Step [200/600]:
+Discriminator_loss: 0.3479, Generator_loss: 2.6194
+Real Score Mean D(x): 0.89, Fake Score Mean D(G(z)): 0.11
+
+Epoch [22/100], Step [400/600]:
+Discriminator_loss: 0.4067, Generator_loss: 3.9544
+Real Score Mean D(x): 0.88, Fake Score Mean D(G(z)): 0.06
+
+Epoch [22/100], Step [600/600]:
+Discriminator_loss: 0.3694, Generator_loss: 2.7854
+Real Score Mean D(x): 0.86, Fake Score Mean D(G(z)): 0.10
+
+Epoch [23/100], Step [200/600]:
+Discriminator_loss: 0.3657, Generator_loss: 3.4893
+Real Score Mean D(x): 0.89, Fake Score Mean D(G(z)): 0.11
+
+Epoch [23/100], Step [400/600]:
+Discriminator_loss: 0.4194, Generator_loss: 2.8642
+Real Score Mean D(x): 0.89, Fake Score Mean D(G(z)): 0.15
+
+Epoch [23/100], Step [600/600]:
+Discriminator_loss: 0.5327, Generator_loss: 2.5431
+Real Score Mean D(x): 0.80, Fake Score Mean D(G(z)): 0.14
+
+Epoch [24/100], Step [200/600]:
+Discriminator_loss: 0.3184, Generator_loss: 3.0216
+Real Score Mean D(x): 0.93, Fake Score Mean D(G(z)): 0.15
+
+Epoch [24/100], Step [400/600]:
+Discriminator_loss: 0.3304, Generator_loss: 3.8737
+Real Score Mean D(x): 0.88, Fake Score Mean D(G(z)): 0.05
+
+Epoch [24/100], Step [600/600]:
+Discriminator_loss: 0.5024, Generator_loss: 4.1660
+Real Score Mean D(x): 0.82, Fake Score Mean D(G(z)): 0.06
+
+Epoch [25/100], Step [200/600]:
+Discriminator_loss: 0.4293, Generator_loss: 2.5538
+Real Score Mean D(x): 0.87, Fake Score Mean D(G(z)): 0.15
+
+Epoch [25/100], Step [400/600]:
+Discriminator_loss: 0.2836, Generator_loss: 2.7102
+Real Score Mean D(x): 0.93, Fake Score Mean D(G(z)): 0.16
+
+Epoch [25/100], Step [600/600]:
+Discriminator_loss: 0.3655, Generator_loss: 2.5815
+Real Score Mean D(x): 0.90, Fake Score Mean D(G(z)): 0.15
+
+Epoch [26/100], Step [200/600]:
+Discriminator_loss: 0.5933, Generator_loss: 2.6411
+Real Score Mean D(x): 0.88, Fake Score Mean D(G(z)): 0.23
+
+Epoch [26/100], Step [400/600]:
+Discriminator_loss: 0.5283, Generator_loss: 3.8116
+Real Score Mean D(x): 0.89, Fake Score Mean D(G(z)): 0.19
+
+Epoch [26/100], Step [600/600]:
+Discriminator_loss: 0.6497, Generator_loss: 3.4484
+Real Score Mean D(x): 0.78, Fake Score Mean D(G(z)): 0.06
+
+Epoch [27/100], Step [200/600]:
+Discriminator_loss: 0.8590, Generator_loss: 2.1370
+Real Score Mean D(x): 0.71, Fake Score Mean D(G(z)): 0.14
+
+Epoch [27/100], Step [400/600]:
+Discriminator_loss: 0.2932, Generator_loss: 3.5292
+Real Score Mean D(x): 0.94, Fake Score Mean D(G(z)): 0.13
+
+Epoch [27/100], Step [600/600]:
+Discriminator_loss: 0.4482, Generator_loss: 2.4226
+Real Score Mean D(x): 0.85, Fake Score Mean D(G(z)): 0.09
+
+Epoch [28/100], Step [200/600]:
+Discriminator_loss: 0.6083, Generator_loss: 2.3788
+Real Score Mean D(x): 0.79, Fake Score Mean D(G(z)): 0.15
+
+Epoch [28/100], Step [400/600]:
+Discriminator_loss: 0.6519, Generator_loss: 3.1220
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.15
+
+Epoch [28/100], Step [600/600]:
+Discriminator_loss: 0.4596, Generator_loss: 2.2778
+Real Score Mean D(x): 0.85, Fake Score Mean D(G(z)): 0.17
+
+Epoch [29/100], Step [200/600]:
+Discriminator_loss: 0.3998, Generator_loss: 3.4609
+Real Score Mean D(x): 0.87, Fake Score Mean D(G(z)): 0.11
+
+Epoch [29/100], Step [400/600]:
+Discriminator_loss: 0.6152, Generator_loss: 2.3316
+Real Score Mean D(x): 0.87, Fake Score Mean D(G(z)): 0.22
+
+Epoch [29/100], Step [600/600]:
+Discriminator_loss: 0.5476, Generator_loss: 3.1439
+Real Score Mean D(x): 0.88, Fake Score Mean D(G(z)): 0.19
+
+Epoch [30/100], Step [200/600]:
+Discriminator_loss: 0.4606, Generator_loss: 2.2369
+Real Score Mean D(x): 0.89, Fake Score Mean D(G(z)): 0.20
+
+Epoch [30/100], Step [400/600]:
+Discriminator_loss: 0.6734, Generator_loss: 3.2340
+Real Score Mean D(x): 0.79, Fake Score Mean D(G(z)): 0.17
+
+Epoch [30/100], Step [600/600]:
+Discriminator_loss: 0.4950, Generator_loss: 2.5900
+Real Score Mean D(x): 0.87, Fake Score Mean D(G(z)): 0.20
+
+Epoch [31/100], Step [200/600]:
+Discriminator_loss: 0.4018, Generator_loss: 3.8462
+Real Score Mean D(x): 0.88, Fake Score Mean D(G(z)): 0.15
+
+Epoch [31/100], Step [400/600]:
+Discriminator_loss: 0.4572, Generator_loss: 2.8415
+Real Score Mean D(x): 0.83, Fake Score Mean D(G(z)): 0.11
+
+Epoch [31/100], Step [600/600]:
+Discriminator_loss: 0.4536, Generator_loss: 3.3021
+Real Score Mean D(x): 0.87, Fake Score Mean D(G(z)): 0.18
+
+Epoch [32/100], Step [200/600]:
+Discriminator_loss: 0.5583, Generator_loss: 3.5574
+Real Score Mean D(x): 0.82, Fake Score Mean D(G(z)): 0.12
+
+Epoch [32/100], Step [400/600]:
+Discriminator_loss: 0.7557, Generator_loss: 2.2936
+Real Score Mean D(x): 0.75, Fake Score Mean D(G(z)): 0.17
+
+Epoch [32/100], Step [600/600]:
+Discriminator_loss: 0.6795, Generator_loss: 2.7208
+Real Score Mean D(x): 0.73, Fake Score Mean D(G(z)): 0.12
+
+Epoch [33/100], Step [200/600]:
+Discriminator_loss: 0.3470, Generator_loss: 3.0038
+Real Score Mean D(x): 0.90, Fake Score Mean D(G(z)): 0.13
+
+Epoch [33/100], Step [400/600]:
+Discriminator_loss: 0.5921, Generator_loss: 2.5929
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.12
+
+Epoch [33/100], Step [600/600]:
+Discriminator_loss: 0.6820, Generator_loss: 2.4572
+Real Score Mean D(x): 0.80, Fake Score Mean D(G(z)): 0.20
+
+Epoch [34/100], Step [200/600]:
+Discriminator_loss: 0.4580, Generator_loss: 2.3131
+Real Score Mean D(x): 0.88, Fake Score Mean D(G(z)): 0.20
+
+Epoch [34/100], Step [400/600]:
+Discriminator_loss: 1.0821, Generator_loss: 3.0727
+Real Score Mean D(x): 0.65, Fake Score Mean D(G(z)): 0.08
+
+Epoch [34/100], Step [600/600]:
+Discriminator_loss: 0.7522, Generator_loss: 2.1201
+Real Score Mean D(x): 0.78, Fake Score Mean D(G(z)): 0.21
+
+Epoch [35/100], Step [200/600]:
+Discriminator_loss: 0.5342, Generator_loss: 2.1111
+Real Score Mean D(x): 0.81, Fake Score Mean D(G(z)): 0.17
+
+Epoch [35/100], Step [400/600]:
+Discriminator_loss: 0.6028, Generator_loss: 2.2337
+Real Score Mean D(x): 0.85, Fake Score Mean D(G(z)): 0.23
+
+Epoch [35/100], Step [600/600]:
+Discriminator_loss: 0.7925, Generator_loss: 2.6543
+Real Score Mean D(x): 0.80, Fake Score Mean D(G(z)): 0.24
+
+Epoch [36/100], Step [200/600]:
+Discriminator_loss: 0.4930, Generator_loss: 2.6558
+Real Score Mean D(x): 0.84, Fake Score Mean D(G(z)): 0.14
+
+Epoch [36/100], Step [400/600]:
+Discriminator_loss: 0.4520, Generator_loss: 2.7511
+Real Score Mean D(x): 0.88, Fake Score Mean D(G(z)): 0.17
+
+Epoch [36/100], Step [600/600]:
+Discriminator_loss: 0.4399, Generator_loss: 2.7622
+Real Score Mean D(x): 0.87, Fake Score Mean D(G(z)): 0.15
+
+Epoch [37/100], Step [200/600]:
+Discriminator_loss: 0.5178, Generator_loss: 3.1898
+Real Score Mean D(x): 0.80, Fake Score Mean D(G(z)): 0.12
+
+Epoch [37/100], Step [400/600]:
+Discriminator_loss: 0.3571, Generator_loss: 2.9694
+Real Score Mean D(x): 0.88, Fake Score Mean D(G(z)): 0.12
+
+Epoch [37/100], Step [600/600]:
+Discriminator_loss: 0.4798, Generator_loss: 2.4709
+Real Score Mean D(x): 0.86, Fake Score Mean D(G(z)): 0.17
+
+Epoch [38/100], Step [200/600]:
+Discriminator_loss: 0.6103, Generator_loss: 2.5352
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.16
+
+Epoch [38/100], Step [400/600]:
+Discriminator_loss: 0.5507, Generator_loss: 2.6096
+Real Score Mean D(x): 0.78, Fake Score Mean D(G(z)): 0.11
+
+Epoch [38/100], Step [600/600]:
+Discriminator_loss: 0.4968, Generator_loss: 2.1720
+Real Score Mean D(x): 0.81, Fake Score Mean D(G(z)): 0.16
+
+Epoch [39/100], Step [200/600]:
+Discriminator_loss: 0.7680, Generator_loss: 1.9704
+Real Score Mean D(x): 0.72, Fake Score Mean D(G(z)): 0.18
+
+Epoch [39/100], Step [400/600]:
+Discriminator_loss: 0.6518, Generator_loss: 2.2675
+Real Score Mean D(x): 0.83, Fake Score Mean D(G(z)): 0.28
+
+Epoch [39/100], Step [600/600]:
+Discriminator_loss: 0.5397, Generator_loss: 2.3651
+Real Score Mean D(x): 0.86, Fake Score Mean D(G(z)): 0.23
+
+Epoch [40/100], Step [200/600]:
+Discriminator_loss: 0.6680, Generator_loss: 2.0689
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.18
+
+Epoch [40/100], Step [400/600]:
+Discriminator_loss: 0.7154, Generator_loss: 2.0844
+Real Score Mean D(x): 0.87, Fake Score Mean D(G(z)): 0.31
+
+Epoch [40/100], Step [600/600]:
+Discriminator_loss: 0.8204, Generator_loss: 2.2070
+Real Score Mean D(x): 0.75, Fake Score Mean D(G(z)): 0.25
+
+Epoch [41/100], Step [200/600]:
+Discriminator_loss: 0.5926, Generator_loss: 2.4618
+Real Score Mean D(x): 0.87, Fake Score Mean D(G(z)): 0.27
+
+Epoch [41/100], Step [400/600]:
+Discriminator_loss: 0.6386, Generator_loss: 2.6048
+Real Score Mean D(x): 0.76, Fake Score Mean D(G(z)): 0.18
+
+Epoch [41/100], Step [600/600]:
+Discriminator_loss: 0.6290, Generator_loss: 2.1059
+Real Score Mean D(x): 0.86, Fake Score Mean D(G(z)): 0.27
+
+Epoch [42/100], Step [200/600]:
+Discriminator_loss: 0.6677, Generator_loss: 2.2335
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.20
+
+Epoch [42/100], Step [400/600]:
+Discriminator_loss: 0.6209, Generator_loss: 2.0360
+Real Score Mean D(x): 0.83, Fake Score Mean D(G(z)): 0.27
+
+Epoch [42/100], Step [600/600]:
+Discriminator_loss: 0.6798, Generator_loss: 2.2508
+Real Score Mean D(x): 0.82, Fake Score Mean D(G(z)): 0.25
+
+Epoch [43/100], Step [200/600]:
+Discriminator_loss: 0.5877, Generator_loss: 1.9499
+Real Score Mean D(x): 0.82, Fake Score Mean D(G(z)): 0.20
+
+Epoch [43/100], Step [400/600]:
+Discriminator_loss: 1.0049, Generator_loss: 1.8516
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.29
+
+Epoch [43/100], Step [600/600]:
+Discriminator_loss: 0.6108, Generator_loss: 3.0696
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.14
+
+Epoch [44/100], Step [200/600]:
+Discriminator_loss: 0.7726, Generator_loss: 2.9902
+Real Score Mean D(x): 0.75, Fake Score Mean D(G(z)): 0.21
+
+Epoch [44/100], Step [400/600]:
+Discriminator_loss: 0.6155, Generator_loss: 1.8700
+Real Score Mean D(x): 0.80, Fake Score Mean D(G(z)): 0.22
+
+Epoch [44/100], Step [600/600]:
+Discriminator_loss: 0.6023, Generator_loss: 2.3056
+Real Score Mean D(x): 0.84, Fake Score Mean D(G(z)): 0.23
+
+Epoch [45/100], Step [200/600]:
+Discriminator_loss: 0.7429, Generator_loss: 1.9027
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.23
+
+Epoch [45/100], Step [400/600]:
+Discriminator_loss: 0.6284, Generator_loss: 2.3548
+Real Score Mean D(x): 0.76, Fake Score Mean D(G(z)): 0.16
+
+Epoch [45/100], Step [600/600]:
+Discriminator_loss: 0.7823, Generator_loss: 2.3259
+Real Score Mean D(x): 0.70, Fake Score Mean D(G(z)): 0.16
+
+Epoch [46/100], Step [200/600]:
+Discriminator_loss: 0.7483, Generator_loss: 2.5105
+Real Score Mean D(x): 0.86, Fake Score Mean D(G(z)): 0.29
+
+Epoch [46/100], Step [400/600]:
+Discriminator_loss: 0.4454, Generator_loss: 1.9369
+Real Score Mean D(x): 0.83, Fake Score Mean D(G(z)): 0.17
+
+Epoch [46/100], Step [600/600]:
+Discriminator_loss: 0.9155, Generator_loss: 2.1767
+Real Score Mean D(x): 0.76, Fake Score Mean D(G(z)): 0.29
+
+Epoch [47/100], Step [200/600]:
+Discriminator_loss: 0.7715, Generator_loss: 1.7476
+Real Score Mean D(x): 0.78, Fake Score Mean D(G(z)): 0.28
+
+Epoch [47/100], Step [400/600]:
+Discriminator_loss: 0.5677, Generator_loss: 2.9709
+Real Score Mean D(x): 0.85, Fake Score Mean D(G(z)): 0.22
+
+Epoch [47/100], Step [600/600]:
+Discriminator_loss: 0.5130, Generator_loss: 3.1155
+Real Score Mean D(x): 0.85, Fake Score Mean D(G(z)): 0.16
+
+Epoch [48/100], Step [200/600]:
+Discriminator_loss: 0.6854, Generator_loss: 2.0948
+Real Score Mean D(x): 0.81, Fake Score Mean D(G(z)): 0.23
+
+Epoch [48/100], Step [400/600]:
+Discriminator_loss: 0.5277, Generator_loss: 1.9432
+Real Score Mean D(x): 0.85, Fake Score Mean D(G(z)): 0.20
+
+Epoch [48/100], Step [600/600]:
+Discriminator_loss: 0.5559, Generator_loss: 2.1123
+Real Score Mean D(x): 0.81, Fake Score Mean D(G(z)): 0.19
+
+Epoch [49/100], Step [200/600]:
+Discriminator_loss: 0.6443, Generator_loss: 2.5818
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.14
+
+Epoch [49/100], Step [400/600]:
+Discriminator_loss: 0.5059, Generator_loss: 2.0500
+Real Score Mean D(x): 0.82, Fake Score Mean D(G(z)): 0.16
+
+Epoch [49/100], Step [600/600]:
+Discriminator_loss: 0.8164, Generator_loss: 1.9970
+Real Score Mean D(x): 0.81, Fake Score Mean D(G(z)): 0.29
+
+Epoch [50/100], Step [200/600]:
+Discriminator_loss: 0.7363, Generator_loss: 1.9619
+Real Score Mean D(x): 0.76, Fake Score Mean D(G(z)): 0.21
+
+Epoch [50/100], Step [400/600]:
+Discriminator_loss: 0.5950, Generator_loss: 2.5056
+Real Score Mean D(x): 0.80, Fake Score Mean D(G(z)): 0.17
+
+Epoch [50/100], Step [600/600]:
+Discriminator_loss: 0.8630, Generator_loss: 2.7924
+Real Score Mean D(x): 0.72, Fake Score Mean D(G(z)): 0.19
+
+Epoch [51/100], Step [200/600]:
+Discriminator_loss: 0.6859, Generator_loss: 1.8992
+Real Score Mean D(x): 0.78, Fake Score Mean D(G(z)): 0.22
+
+Epoch [51/100], Step [400/600]:
+Discriminator_loss: 0.5848, Generator_loss: 2.2644
+Real Score Mean D(x): 0.80, Fake Score Mean D(G(z)): 0.19
+
+Epoch [51/100], Step [600/600]:
+Discriminator_loss: 0.8677, Generator_loss: 1.6719
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.34
+
+Epoch [52/100], Step [200/600]:
+Discriminator_loss: 0.9082, Generator_loss: 2.0270
+Real Score Mean D(x): 0.65, Fake Score Mean D(G(z)): 0.16
+
+Epoch [52/100], Step [400/600]:
+Discriminator_loss: 0.8479, Generator_loss: 1.9003
+Real Score Mean D(x): 0.71, Fake Score Mean D(G(z)): 0.23
+
+Epoch [52/100], Step [600/600]:
+Discriminator_loss: 0.6233, Generator_loss: 2.2555
+Real Score Mean D(x): 0.76, Fake Score Mean D(G(z)): 0.18
+
+Epoch [53/100], Step [200/600]:
+Discriminator_loss: 0.8341, Generator_loss: 2.3004
+Real Score Mean D(x): 0.75, Fake Score Mean D(G(z)): 0.22
+
+Epoch [53/100], Step [400/600]:
+Discriminator_loss: 0.5461, Generator_loss: 2.5333
+Real Score Mean D(x): 0.86, Fake Score Mean D(G(z)): 0.19
+
+Epoch [53/100], Step [600/600]:
+Discriminator_loss: 0.9305, Generator_loss: 1.7811
+Real Score Mean D(x): 0.72, Fake Score Mean D(G(z)): 0.30
+
+Epoch [54/100], Step [200/600]:
+Discriminator_loss: 1.0024, Generator_loss: 1.7519
+Real Score Mean D(x): 0.64, Fake Score Mean D(G(z)): 0.25
+
+Epoch [54/100], Step [400/600]:
+Discriminator_loss: 0.7695, Generator_loss: 2.0887
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.24
+
+Epoch [54/100], Step [600/600]:
+Discriminator_loss: 0.8667, Generator_loss: 2.4213
+Real Score Mean D(x): 0.68, Fake Score Mean D(G(z)): 0.17
+
+Epoch [55/100], Step [200/600]:
+Discriminator_loss: 0.8462, Generator_loss: 2.3718
+Real Score Mean D(x): 0.79, Fake Score Mean D(G(z)): 0.31
+
+Epoch [55/100], Step [400/600]:
+Discriminator_loss: 0.6992, Generator_loss: 1.9819
+Real Score Mean D(x): 0.80, Fake Score Mean D(G(z)): 0.25
+
+Epoch [55/100], Step [600/600]:
+Discriminator_loss: 0.6413, Generator_loss: 2.2513
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.19
+
+Epoch [56/100], Step [200/600]:
+Discriminator_loss: 0.7923, Generator_loss: 2.1072
+Real Score Mean D(x): 0.68, Fake Score Mean D(G(z)): 0.19
+
+Epoch [56/100], Step [400/600]:
+Discriminator_loss: 1.2023, Generator_loss: 1.8383
+Real Score Mean D(x): 0.58, Fake Score Mean D(G(z)): 0.22
+
+Epoch [56/100], Step [600/600]:
+Discriminator_loss: 0.6673, Generator_loss: 2.1001
+Real Score Mean D(x): 0.73, Fake Score Mean D(G(z)): 0.19
+
+Epoch [57/100], Step [200/600]:
+Discriminator_loss: 0.9307, Generator_loss: 1.4239
+Real Score Mean D(x): 0.70, Fake Score Mean D(G(z)): 0.30
+
+Epoch [57/100], Step [400/600]:
+Discriminator_loss: 0.6059, Generator_loss: 1.8661
+Real Score Mean D(x): 0.82, Fake Score Mean D(G(z)): 0.25
+
+Epoch [57/100], Step [600/600]:
+Discriminator_loss: 0.9502, Generator_loss: 1.7100
+Real Score Mean D(x): 0.71, Fake Score Mean D(G(z)): 0.28
+
+Epoch [58/100], Step [200/600]:
+Discriminator_loss: 0.7109, Generator_loss: 2.2007
+Real Score Mean D(x): 0.74, Fake Score Mean D(G(z)): 0.20
+
+Epoch [58/100], Step [400/600]:
+Discriminator_loss: 0.6136, Generator_loss: 2.2516
+Real Score Mean D(x): 0.78, Fake Score Mean D(G(z)): 0.20
+
+Epoch [58/100], Step [600/600]:
+Discriminator_loss: 0.7224, Generator_loss: 2.2727
+Real Score Mean D(x): 0.80, Fake Score Mean D(G(z)): 0.29
+
+Epoch [59/100], Step [200/600]:
+Discriminator_loss: 0.8508, Generator_loss: 1.9117
+Real Score Mean D(x): 0.71, Fake Score Mean D(G(z)): 0.24
+
+Epoch [59/100], Step [400/600]:
+Discriminator_loss: 0.8270, Generator_loss: 1.7686
+Real Score Mean D(x): 0.76, Fake Score Mean D(G(z)): 0.27
+
+Epoch [59/100], Step [600/600]:
+Discriminator_loss: 0.7484, Generator_loss: 1.7394
+Real Score Mean D(x): 0.76, Fake Score Mean D(G(z)): 0.26
+
+Epoch [60/100], Step [200/600]:
+Discriminator_loss: 0.8971, Generator_loss: 1.5088
+Real Score Mean D(x): 0.70, Fake Score Mean D(G(z)): 0.31
+
+Epoch [60/100], Step [400/600]:
+Discriminator_loss: 0.8327, Generator_loss: 1.9721
+Real Score Mean D(x): 0.70, Fake Score Mean D(G(z)): 0.21
+
+Epoch [60/100], Step [600/600]:
+Discriminator_loss: 0.6446, Generator_loss: 2.3362
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.18
+
+Epoch [61/100], Step [200/600]:
+Discriminator_loss: 0.9052, Generator_loss: 2.0115
+Real Score Mean D(x): 0.67, Fake Score Mean D(G(z)): 0.21
+
+Epoch [61/100], Step [400/600]:
+Discriminator_loss: 0.7395, Generator_loss: 1.9796
+Real Score Mean D(x): 0.75, Fake Score Mean D(G(z)): 0.23
+
+Epoch [61/100], Step [600/600]:
+Discriminator_loss: 0.6570, Generator_loss: 2.2263
+Real Score Mean D(x): 0.81, Fake Score Mean D(G(z)): 0.23
+
+Epoch [62/100], Step [200/600]:
+Discriminator_loss: 1.1756, Generator_loss: 1.6296
+Real Score Mean D(x): 0.71, Fake Score Mean D(G(z)): 0.42
+
+Epoch [62/100], Step [400/600]:
+Discriminator_loss: 0.8541, Generator_loss: 1.9309
+Real Score Mean D(x): 0.69, Fake Score Mean D(G(z)): 0.26
+
+Epoch [62/100], Step [600/600]:
+Discriminator_loss: 0.9828, Generator_loss: 1.4580
+Real Score Mean D(x): 0.65, Fake Score Mean D(G(z)): 0.29
+
+Epoch [63/100], Step [200/600]:
+Discriminator_loss: 0.8422, Generator_loss: 1.7757
+Real Score Mean D(x): 0.72, Fake Score Mean D(G(z)): 0.29
+
+Epoch [63/100], Step [400/600]:
+Discriminator_loss: 0.5917, Generator_loss: 2.0854
+Real Score Mean D(x): 0.84, Fake Score Mean D(G(z)): 0.24
+
+Epoch [63/100], Step [600/600]:
+Discriminator_loss: 0.7842, Generator_loss: 1.6834
+Real Score Mean D(x): 0.72, Fake Score Mean D(G(z)): 0.26
+
+Epoch [64/100], Step [200/600]:
+Discriminator_loss: 0.8725, Generator_loss: 1.6525
+Real Score Mean D(x): 0.70, Fake Score Mean D(G(z)): 0.26
+
+Epoch [64/100], Step [400/600]:
+Discriminator_loss: 0.8968, Generator_loss: 1.8404
+Real Score Mean D(x): 0.72, Fake Score Mean D(G(z)): 0.26
+
+Epoch [64/100], Step [600/600]:
+Discriminator_loss: 0.7128, Generator_loss: 1.8259
+Real Score Mean D(x): 0.74, Fake Score Mean D(G(z)): 0.23
+
+Epoch [65/100], Step [200/600]:
+Discriminator_loss: 0.8509, Generator_loss: 1.7300
+Real Score Mean D(x): 0.78, Fake Score Mean D(G(z)): 0.30
+
+Epoch [65/100], Step [400/600]:
+Discriminator_loss: 0.8338, Generator_loss: 1.7766
+Real Score Mean D(x): 0.82, Fake Score Mean D(G(z)): 0.31
+
+Epoch [65/100], Step [600/600]:
+Discriminator_loss: 1.1090, Generator_loss: 1.3769
+Real Score Mean D(x): 0.67, Fake Score Mean D(G(z)): 0.32
+
+Epoch [66/100], Step [200/600]:
+Discriminator_loss: 1.0327, Generator_loss: 1.3273
+Real Score Mean D(x): 0.67, Fake Score Mean D(G(z)): 0.31
+
+Epoch [66/100], Step [400/600]:
+Discriminator_loss: 0.8553, Generator_loss: 1.8047
+Real Score Mean D(x): 0.68, Fake Score Mean D(G(z)): 0.23
+
+Epoch [66/100], Step [600/600]:
+Discriminator_loss: 0.8728, Generator_loss: 1.5120
+Real Score Mean D(x): 0.73, Fake Score Mean D(G(z)): 0.29
+
+Epoch [67/100], Step [200/600]:
+Discriminator_loss: 0.9748, Generator_loss: 1.5815
+Real Score Mean D(x): 0.72, Fake Score Mean D(G(z)): 0.32
+
+Epoch [67/100], Step [400/600]:
+Discriminator_loss: 0.8404, Generator_loss: 1.6106
+Real Score Mean D(x): 0.70, Fake Score Mean D(G(z)): 0.27
+
+Epoch [67/100], Step [600/600]:
+Discriminator_loss: 0.7837, Generator_loss: 1.9473
+Real Score Mean D(x): 0.75, Fake Score Mean D(G(z)): 0.25
+
+Epoch [68/100], Step [200/600]:
+Discriminator_loss: 0.7610, Generator_loss: 1.7398
+Real Score Mean D(x): 0.76, Fake Score Mean D(G(z)): 0.28
+
+Epoch [68/100], Step [400/600]:
+Discriminator_loss: 1.0845, Generator_loss: 1.6107
+Real Score Mean D(x): 0.69, Fake Score Mean D(G(z)): 0.32
+
+Epoch [68/100], Step [600/600]:
+Discriminator_loss: 0.8172, Generator_loss: 1.3884
+Real Score Mean D(x): 0.73, Fake Score Mean D(G(z)): 0.27
+
+Epoch [69/100], Step [200/600]:
+Discriminator_loss: 0.7840, Generator_loss: 2.0092
+Real Score Mean D(x): 0.69, Fake Score Mean D(G(z)): 0.20
+
+Epoch [69/100], Step [400/600]:
+Discriminator_loss: 1.0533, Generator_loss: 1.5291
+Real Score Mean D(x): 0.59, Fake Score Mean D(G(z)): 0.23
+
+Epoch [69/100], Step [600/600]:
+Discriminator_loss: 0.9819, Generator_loss: 1.7640
+Real Score Mean D(x): 0.69, Fake Score Mean D(G(z)): 0.31
+
+Epoch [70/100], Step [200/600]:
+Discriminator_loss: 1.2809, Generator_loss: 1.5723
+Real Score Mean D(x): 0.66, Fake Score Mean D(G(z)): 0.39
+
+Epoch [70/100], Step [400/600]:
+Discriminator_loss: 0.7622, Generator_loss: 1.5476
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.30
+
+Epoch [70/100], Step [600/600]:
+Discriminator_loss: 1.0830, Generator_loss: 1.6094
+Real Score Mean D(x): 0.63, Fake Score Mean D(G(z)): 0.30
+
+Epoch [71/100], Step [200/600]:
+Discriminator_loss: 0.7018, Generator_loss: 1.3451
+Real Score Mean D(x): 0.80, Fake Score Mean D(G(z)): 0.26
+
+Epoch [71/100], Step [400/600]:
+Discriminator_loss: 0.7590, Generator_loss: 1.7032
+Real Score Mean D(x): 0.78, Fake Score Mean D(G(z)): 0.28
+
+Epoch [71/100], Step [600/600]:
+Discriminator_loss: 0.8516, Generator_loss: 1.5907
+Real Score Mean D(x): 0.70, Fake Score Mean D(G(z)): 0.26
+
+Epoch [72/100], Step [200/600]:
+Discriminator_loss: 1.0631, Generator_loss: 1.4980
+Real Score Mean D(x): 0.66, Fake Score Mean D(G(z)): 0.31
+
+Epoch [72/100], Step [400/600]:
+Discriminator_loss: 1.0389, Generator_loss: 1.8819
+Real Score Mean D(x): 0.69, Fake Score Mean D(G(z)): 0.32
+
+Epoch [72/100], Step [600/600]:
+Discriminator_loss: 0.5795, Generator_loss: 1.9064
+Real Score Mean D(x): 0.81, Fake Score Mean D(G(z)): 0.21
+
+Epoch [73/100], Step [200/600]:
+Discriminator_loss: 0.8018, Generator_loss: 1.4528
+Real Score Mean D(x): 0.71, Fake Score Mean D(G(z)): 0.27
+
+Epoch [73/100], Step [400/600]:
+Discriminator_loss: 0.6394, Generator_loss: 1.8640
+Real Score Mean D(x): 0.74, Fake Score Mean D(G(z)): 0.16
+
+Epoch [73/100], Step [600/600]:
+Discriminator_loss: 0.6110, Generator_loss: 1.8072
+Real Score Mean D(x): 0.82, Fake Score Mean D(G(z)): 0.26
+
+Epoch [74/100], Step [200/600]:
+Discriminator_loss: 0.8509, Generator_loss: 1.4266
+Real Score Mean D(x): 0.71, Fake Score Mean D(G(z)): 0.26
+
+Epoch [74/100], Step [400/600]:
+Discriminator_loss: 1.4088, Generator_loss: 1.3350
+Real Score Mean D(x): 0.54, Fake Score Mean D(G(z)): 0.30
+
+Epoch [74/100], Step [600/600]:
+Discriminator_loss: 0.7795, Generator_loss: 1.5555
+Real Score Mean D(x): 0.74, Fake Score Mean D(G(z)): 0.26
+
+Epoch [75/100], Step [200/600]:
+Discriminator_loss: 0.9919, Generator_loss: 1.5664
+Real Score Mean D(x): 0.74, Fake Score Mean D(G(z)): 0.35
+
+Epoch [75/100], Step [400/600]:
+Discriminator_loss: 0.7963, Generator_loss: 1.8588
+Real Score Mean D(x): 0.76, Fake Score Mean D(G(z)): 0.24
+
+Epoch [75/100], Step [600/600]:
+Discriminator_loss: 0.7964, Generator_loss: 1.9557
+Real Score Mean D(x): 0.69, Fake Score Mean D(G(z)): 0.20
+
+Epoch [76/100], Step [200/600]:
+Discriminator_loss: 0.6805, Generator_loss: 1.6337
+Real Score Mean D(x): 0.75, Fake Score Mean D(G(z)): 0.24
+
+Epoch [76/100], Step [400/600]:
+Discriminator_loss: 1.1803, Generator_loss: 1.6819
+Real Score Mean D(x): 0.61, Fake Score Mean D(G(z)): 0.32
+
+Epoch [76/100], Step [600/600]:
+Discriminator_loss: 0.8211, Generator_loss: 1.7132
+Real Score Mean D(x): 0.72, Fake Score Mean D(G(z)): 0.28
+
+Epoch [77/100], Step [200/600]:
+Discriminator_loss: 1.1378, Generator_loss: 2.1913
+Real Score Mean D(x): 0.63, Fake Score Mean D(G(z)): 0.29
+
+Epoch [77/100], Step [400/600]:
+Discriminator_loss: 0.9776, Generator_loss: 1.4477
+Real Score Mean D(x): 0.67, Fake Score Mean D(G(z)): 0.31
+
+Epoch [77/100], Step [600/600]:
+Discriminator_loss: 0.6987, Generator_loss: 1.5770
+Real Score Mean D(x): 0.74, Fake Score Mean D(G(z)): 0.24
+
+Epoch [78/100], Step [200/600]:
+Discriminator_loss: 1.1271, Generator_loss: 1.4810
+Real Score Mean D(x): 0.65, Fake Score Mean D(G(z)): 0.35
+
+Epoch [78/100], Step [400/600]:
+Discriminator_loss: 0.7816, Generator_loss: 1.9735
+Real Score Mean D(x): 0.74, Fake Score Mean D(G(z)): 0.26
+
+Epoch [78/100], Step [600/600]:
+Discriminator_loss: 0.6032, Generator_loss: 1.8670
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.21
+
+Epoch [79/100], Step [200/600]:
+Discriminator_loss: 1.0589, Generator_loss: 1.4482
+Real Score Mean D(x): 0.70, Fake Score Mean D(G(z)): 0.35
+
+Epoch [79/100], Step [400/600]:
+Discriminator_loss: 0.7938, Generator_loss: 1.3344
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.27
+
+Epoch [79/100], Step [600/600]:
+Discriminator_loss: 0.7276, Generator_loss: 1.6690
+Real Score Mean D(x): 0.73, Fake Score Mean D(G(z)): 0.23
+
+Epoch [80/100], Step [200/600]:
+Discriminator_loss: 1.0800, Generator_loss: 1.6962
+Real Score Mean D(x): 0.65, Fake Score Mean D(G(z)): 0.29
+
+Epoch [80/100], Step [400/600]:
+Discriminator_loss: 0.8998, Generator_loss: 1.2441
+Real Score Mean D(x): 0.79, Fake Score Mean D(G(z)): 0.39
+
+Epoch [80/100], Step [600/600]:
+Discriminator_loss: 0.7413, Generator_loss: 1.6467
+Real Score Mean D(x): 0.74, Fake Score Mean D(G(z)): 0.27
+
+Epoch [81/100], Step [200/600]:
+Discriminator_loss: 0.8074, Generator_loss: 1.6278
+Real Score Mean D(x): 0.68, Fake Score Mean D(G(z)): 0.24
+
+Epoch [81/100], Step [400/600]:
+Discriminator_loss: 1.1456, Generator_loss: 1.3719
+Real Score Mean D(x): 0.63, Fake Score Mean D(G(z)): 0.34
+
+Epoch [81/100], Step [600/600]:
+Discriminator_loss: 0.9772, Generator_loss: 1.5138
+Real Score Mean D(x): 0.65, Fake Score Mean D(G(z)): 0.29
+
+Epoch [82/100], Step [200/600]:
+Discriminator_loss: 0.9689, Generator_loss: 1.8396
+Real Score Mean D(x): 0.70, Fake Score Mean D(G(z)): 0.31
+
+Epoch [82/100], Step [400/600]:
+Discriminator_loss: 0.9768, Generator_loss: 1.2474
+Real Score Mean D(x): 0.72, Fake Score Mean D(G(z)): 0.33
+
+Epoch [82/100], Step [600/600]:
+Discriminator_loss: 1.0716, Generator_loss: 1.4984
+Real Score Mean D(x): 0.71, Fake Score Mean D(G(z)): 0.37
+
+Epoch [83/100], Step [200/600]:
+Discriminator_loss: 0.9089, Generator_loss: 1.5935
+Real Score Mean D(x): 0.69, Fake Score Mean D(G(z)): 0.28
+
+Epoch [83/100], Step [400/600]:
+Discriminator_loss: 1.0637, Generator_loss: 1.3098
+Real Score Mean D(x): 0.65, Fake Score Mean D(G(z)): 0.36
+
+Epoch [83/100], Step [600/600]:
+Discriminator_loss: 0.8006, Generator_loss: 1.4594
+Real Score Mean D(x): 0.75, Fake Score Mean D(G(z)): 0.32
+
+Epoch [84/100], Step [200/600]:
+Discriminator_loss: 0.8846, Generator_loss: 1.5904
+Real Score Mean D(x): 0.68, Fake Score Mean D(G(z)): 0.29
+
+Epoch [84/100], Step [400/600]:
+Discriminator_loss: 0.8096, Generator_loss: 1.8186
+Real Score Mean D(x): 0.73, Fake Score Mean D(G(z)): 0.28
+
+Epoch [84/100], Step [600/600]:
+Discriminator_loss: 0.8624, Generator_loss: 1.4967
+Real Score Mean D(x): 0.69, Fake Score Mean D(G(z)): 0.28
+
+Epoch [85/100], Step [200/600]:
+Discriminator_loss: 1.2144, Generator_loss: 1.5653
+Real Score Mean D(x): 0.65, Fake Score Mean D(G(z)): 0.36
+
+Epoch [85/100], Step [400/600]:
+Discriminator_loss: 1.0075, Generator_loss: 1.1833
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.42
+
+Epoch [85/100], Step [600/600]:
+Discriminator_loss: 0.9134, Generator_loss: 1.4131
+Real Score Mean D(x): 0.67, Fake Score Mean D(G(z)): 0.31
+
+Epoch [86/100], Step [200/600]:
+Discriminator_loss: 0.9429, Generator_loss: 1.3930
+Real Score Mean D(x): 0.73, Fake Score Mean D(G(z)): 0.35
+
+Epoch [86/100], Step [400/600]:
+Discriminator_loss: 0.5366, Generator_loss: 1.9174
+Real Score Mean D(x): 0.78, Fake Score Mean D(G(z)): 0.19
+
+Epoch [86/100], Step [600/600]:
+Discriminator_loss: 1.2871, Generator_loss: 1.1327
+Real Score Mean D(x): 0.60, Fake Score Mean D(G(z)): 0.38
+
+Epoch [87/100], Step [200/600]:
+Discriminator_loss: 1.0306, Generator_loss: 1.3711
+Real Score Mean D(x): 0.66, Fake Score Mean D(G(z)): 0.35
+
+Epoch [87/100], Step [400/600]:
+Discriminator_loss: 0.8366, Generator_loss: 1.5893
+Real Score Mean D(x): 0.73, Fake Score Mean D(G(z)): 0.31
+
+Epoch [87/100], Step [600/600]:
+Discriminator_loss: 0.9226, Generator_loss: 1.4591
+Real Score Mean D(x): 0.69, Fake Score Mean D(G(z)): 0.32
+
+Epoch [88/100], Step [200/600]:
+Discriminator_loss: 1.1282, Generator_loss: 1.2755
+Real Score Mean D(x): 0.67, Fake Score Mean D(G(z)): 0.36
+
+Epoch [88/100], Step [400/600]:
+Discriminator_loss: 1.1695, Generator_loss: 1.0253
+Real Score Mean D(x): 0.65, Fake Score Mean D(G(z)): 0.39
+
+Epoch [88/100], Step [600/600]:
+Discriminator_loss: 1.1524, Generator_loss: 1.4538
+Real Score Mean D(x): 0.63, Fake Score Mean D(G(z)): 0.36
+
+Epoch [89/100], Step [200/600]:
+Discriminator_loss: 1.1329, Generator_loss: 1.9046
+Real Score Mean D(x): 0.58, Fake Score Mean D(G(z)): 0.27
+
+Epoch [89/100], Step [400/600]:
+Discriminator_loss: 0.8436, Generator_loss: 1.4219
+Real Score Mean D(x): 0.72, Fake Score Mean D(G(z)): 0.32
+
+Epoch [89/100], Step [600/600]:
+Discriminator_loss: 0.8955, Generator_loss: 1.3658
+Real Score Mean D(x): 0.67, Fake Score Mean D(G(z)): 0.29
+
+Epoch [90/100], Step [200/600]:
+Discriminator_loss: 0.9341, Generator_loss: 1.5016
+Real Score Mean D(x): 0.69, Fake Score Mean D(G(z)): 0.32
+
+Epoch [90/100], Step [400/600]:
+Discriminator_loss: 0.9806, Generator_loss: 1.6251
+Real Score Mean D(x): 0.69, Fake Score Mean D(G(z)): 0.33
+
+Epoch [90/100], Step [600/600]:
+Discriminator_loss: 1.0162, Generator_loss: 1.5006
+Real Score Mean D(x): 0.64, Fake Score Mean D(G(z)): 0.30
+
+Epoch [91/100], Step [200/600]:
+Discriminator_loss: 0.8531, Generator_loss: 1.5270
+Real Score Mean D(x): 0.71, Fake Score Mean D(G(z)): 0.29
+
+Epoch [91/100], Step [400/600]:
+Discriminator_loss: 0.9111, Generator_loss: 1.6482
+Real Score Mean D(x): 0.66, Fake Score Mean D(G(z)): 0.28
+
+Epoch [91/100], Step [600/600]:
+Discriminator_loss: 0.9426, Generator_loss: 1.5392
+Real Score Mean D(x): 0.65, Fake Score Mean D(G(z)): 0.29
+
+Epoch [92/100], Step [200/600]:
+Discriminator_loss: 0.9595, Generator_loss: 1.5284
+Real Score Mean D(x): 0.69, Fake Score Mean D(G(z)): 0.31
+
+Epoch [92/100], Step [400/600]:
+Discriminator_loss: 1.0197, Generator_loss: 1.1481
+Real Score Mean D(x): 0.66, Fake Score Mean D(G(z)): 0.37
+
+Epoch [92/100], Step [600/600]:
+Discriminator_loss: 1.0004, Generator_loss: 1.3458
+Real Score Mean D(x): 0.63, Fake Score Mean D(G(z)): 0.30
+
+Epoch [93/100], Step [200/600]:
+Discriminator_loss: 1.1709, Generator_loss: 1.2564
+Real Score Mean D(x): 0.65, Fake Score Mean D(G(z)): 0.38
+
+Epoch [93/100], Step [400/600]:
+Discriminator_loss: 1.0264, Generator_loss: 1.5005
+Real Score Mean D(x): 0.64, Fake Score Mean D(G(z)): 0.31
+
+Epoch [93/100], Step [600/600]:
+Discriminator_loss: 0.7928, Generator_loss: 1.8335
+Real Score Mean D(x): 0.73, Fake Score Mean D(G(z)): 0.27
+
+Epoch [94/100], Step [200/600]:
+Discriminator_loss: 1.1852, Generator_loss: 1.1246
+Real Score Mean D(x): 0.62, Fake Score Mean D(G(z)): 0.36
+
+Epoch [94/100], Step [400/600]:
+Discriminator_loss: 1.0494, Generator_loss: 1.6527
+Real Score Mean D(x): 0.70, Fake Score Mean D(G(z)): 0.33
+
+Epoch [94/100], Step [600/600]:
+Discriminator_loss: 1.0007, Generator_loss: 1.6146
+Real Score Mean D(x): 0.62, Fake Score Mean D(G(z)): 0.26
+
+Epoch [95/100], Step [200/600]:
+Discriminator_loss: 0.7751, Generator_loss: 1.4596
+Real Score Mean D(x): 0.73, Fake Score Mean D(G(z)): 0.30
+
+Epoch [95/100], Step [400/600]:
+Discriminator_loss: 1.0790, Generator_loss: 1.3812
+Real Score Mean D(x): 0.68, Fake Score Mean D(G(z)): 0.39
+
+Epoch [95/100], Step [600/600]:
+Discriminator_loss: 1.1339, Generator_loss: 1.7115
+Real Score Mean D(x): 0.61, Fake Score Mean D(G(z)): 0.30
+
+Epoch [96/100], Step [200/600]:
+Discriminator_loss: 0.6523, Generator_loss: 2.0383
+Real Score Mean D(x): 0.71, Fake Score Mean D(G(z)): 0.17
+
+Epoch [96/100], Step [400/600]:
+Discriminator_loss: 0.7792, Generator_loss: 1.6087
+Real Score Mean D(x): 0.77, Fake Score Mean D(G(z)): 0.31
+
+Epoch [96/100], Step [600/600]:
+Discriminator_loss: 0.8489, Generator_loss: 1.3025
+Real Score Mean D(x): 0.74, Fake Score Mean D(G(z)): 0.33
+
+Epoch [97/100], Step [200/600]:
+Discriminator_loss: 0.9715, Generator_loss: 1.3260
+Real Score Mean D(x): 0.65, Fake Score Mean D(G(z)): 0.28
+
+Epoch [97/100], Step [400/600]:
+Discriminator_loss: 1.0980, Generator_loss: 1.5238
+Real Score Mean D(x): 0.63, Fake Score Mean D(G(z)): 0.32
+
+Epoch [97/100], Step [600/600]:
+Discriminator_loss: 0.9870, Generator_loss: 1.4445
+Real Score Mean D(x): 0.65, Fake Score Mean D(G(z)): 0.33
+
+Epoch [98/100], Step [200/600]:
+Discriminator_loss: 0.7196, Generator_loss: 1.5677
+Real Score Mean D(x): 0.74, Fake Score Mean D(G(z)): 0.26
+
+Epoch [98/100], Step [400/600]:
+Discriminator_loss: 1.1763, Generator_loss: 1.5799
+Real Score Mean D(x): 0.55, Fake Score Mean D(G(z)): 0.27
+
+Epoch [98/100], Step [600/600]:
+Discriminator_loss: 1.0665, Generator_loss: 1.4289
+Real Score Mean D(x): 0.60, Fake Score Mean D(G(z)): 0.31
+
+Epoch [99/100], Step [200/600]:
+Discriminator_loss: 0.9279, Generator_loss: 1.5515
+Real Score Mean D(x): 0.66, Fake Score Mean D(G(z)): 0.28
+
+Epoch [99/100], Step [400/600]:
+Discriminator_loss: 0.9696, Generator_loss: 1.1512
+Real Score Mean D(x): 0.70, Fake Score Mean D(G(z)): 0.36
+
+Epoch [99/100], Step [600/600]:
+Discriminator_loss: 1.0177, Generator_loss: 1.4009
+Real Score Mean D(x): 0.62, Fake Score Mean D(G(z)): 0.30
+
